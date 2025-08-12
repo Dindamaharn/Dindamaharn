@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Dinda
 
-🎓 I'm a 4th-semester Informatics student at UPN "Veteran" Jawa Timur.  
+🎓 I'm a 5th-semester Informatics student at UPN "Veteran" Jawa Timur.  
 🎯 I'm passionate about front-end web development and currently exploring technologies to build clean, responsive, and user-friendly interfaces.  
 💡 I enjoy turning ideas into real web experiences through HTML, CSS, JavaScript, and modern frameworks.  
 🧠 Continuously learning and improving my front-end skills, while also exploring basic backend development to understand the full flow of web applications.  
